@@ -26,9 +26,4 @@ The project demonstrates that:
 
 The dataset used for this project is the [UCI Parkinson's Disease Dataset](https://archive.ics.uci.edu/dataset/174/parkinsons), containing 195 records with 22 biomedical voice measurements and a target variable indicating the presence of Parkinson's Disease.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
